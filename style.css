@@ -210,3 +210,26 @@ component > label
     font-weight: bold;
     text-transform: uppercase;
 }
+
+/* ラベルがリンクになっているパターン 
+.c-label-2 {
+    display: inline-block;
+    padding: .4em .8em;
+    background-color: var(--color-green);
+    color: var(--color-white);
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: 2px solid transparent;
+}
+
+.c-label-2--link {
+    transition: .25s;
+}
+
+.c-label-2:focus,
+.c-label-2:hover {
+    background-color: var(--color-white);
+    border-color: currentColor;
+    color: var(--color-green);
+}*/
