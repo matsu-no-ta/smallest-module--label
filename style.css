@@ -211,7 +211,7 @@ component > label
     text-transform: uppercase;
 }
 
-/* ラベルがリンクになっているパターン 
+/* ラベルがリンクになっているパターン*/
 .c-label-2 {
     display: inline-block;
     padding: .4em .8em;
@@ -232,4 +232,4 @@ component > label
     background-color: var(--color-white);
     border-color: currentColor;
     color: var(--color-green);
-}*/
+}
