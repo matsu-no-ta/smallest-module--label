@@ -192,8 +192,9 @@ utility > utility
     margin: -1px !important;
 }
 
-div {
-    margin-top: 16px;
+.c-mtb {
+    margin: 16px 0;
+    text-align: center;
 }
 
 /*!
